@@ -38,5 +38,5 @@ This repository contains SQL scripts, walkthroughs, and related resources for va
 
 ### Case Study 4b - Data Bank
 - **Challenge:** SQL ❄️
-- **SQL Script:** [SQL Script for Data Bank](link_to_script)
+- **SQL Script:** [SQL Script for Data Bank](https://github.com/AbdulTheAnalyst/Data_with_Danny_8_weeks_challenge/blob/main/Case%20Study%204%20-%20Data%20Bank/week4b_solution.sql)
 - **Skills Tested:** End of month calculations, Running sums and conditional aggregations
