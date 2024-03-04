@@ -8,7 +8,7 @@ This repository contains SQL scripts, walkthroughs, and related resources for va
 
 ### Case Study 1 - Danny's Diner
 - **Challenge:** SQL ❄️
-- **SQL Script:** [SQL Script for Danny's Diner](link_to_script)
+- **SQL Script:** [SQL Script for Danny's Diner](https://github.com/AbdulTheAnalyst/Data_with_Danny_8_weeks_challenge/blob/main/Case%20study%201%20-%20Danny's%20DInner/week1_solution.sql)
 - **Skills Tested:** Ranking, Common Table Expressions (CTEs), Case Statements, Dates and Scalar functions
 
 ### Case Study 2a - Pizza Runner
