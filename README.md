@@ -28,7 +28,7 @@ This repository contains SQL scripts, walkthroughs, and related resources for va
 
 ### Case Study 3 a&b - Foodie Fi
 - **Challenge:** SQL ❄️
-- **SQL Script:** [SQL Script for Foodie Fi](link_to_script)
+- **SQL Script:** [SQL Script for Foodie Fi]([link_to_script)](https://github.com/AbdulTheAnalyst/Data_with_Danny_8_weeks_challenge/blob/main/Case%20Study%203-%20Foodie%20Fi/week3a%26b_solution.sql)
 - **Skills Tested:** CTEs, Row Number, Date Functions
 
 ### Case Study 4a - Data Bank
