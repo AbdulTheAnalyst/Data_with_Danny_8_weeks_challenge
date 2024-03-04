@@ -18,7 +18,7 @@ This repository contains SQL scripts, walkthroughs, and related resources for va
 
 ### Case Study 2b - Pizza Runner
 - **Challenge:** SQL ❄️
-- **SQL Script:** [SQL Script for Pizza Runner](link_to_script)
+- **SQL Script:** [SQL Script for Pizza Runner](https://github.com/AbdulTheAnalyst/Data_with_Danny_8_weeks_challenge/blob/main/Case%20Study%202%20-%20Pizza%20Runner/week2b_soln.sql)
 - **Skills Tested:** Datetime formatting, NULLs, Type conversions, Text manipulation
 
 ### Case Study 2c - Pizza Runner
