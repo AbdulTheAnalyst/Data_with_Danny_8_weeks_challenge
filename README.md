@@ -13,7 +13,7 @@ This repository contains SQL scripts, walkthroughs, and related resources for va
 
 ### Case Study 2a - Pizza Runner
 - **Challenge:** SQL ❄️
-- **SQL Script:** [SQL Script for Pizza Runner](https://github.com/AbdulTheAnalyst/Data_with_Danny_8_weeks_challenge/tree/main/Case%20Study%202%20-%20Pizza%20Runner)
+- **SQL Script:** [SQL Script for Pizza Runner](https://github.com/AbdulTheAnalyst/Data_with_Danny_8_weeks_challenge/blob/main/Case%20Study%202%20-%20Pizza%20Runner/week2a.soln.sql)
 - **Skills Tested:** Searching Text, Case Statements, NULLs, Datetime and Scalar functions
 
 ### Case Study 2b - Pizza Runner
