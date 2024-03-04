@@ -1,2 +1,42 @@
 # Data_with_Danny_8_weeks_challenge
 A repo for danny_ma 8 weeks SQL challenge
+# Solutions
+
+This repository contains SQL scripts, walkthroughs, and related resources for various challenges and case studies.
+
+## Case Studies
+
+### Case Study 1 - Danny's Diner
+- **Challenge:** SQL ❄️
+- **SQL Script:** [SQL Script for Danny's Diner](link_to_script)
+- **Skills Tested:** Ranking, Common Table Expressions (CTEs), Case Statements, Dates and Scalar functions
+
+### Case Study 2a - Pizza Runner
+- **Challenge:** SQL ❄️
+- **SQL Script:** [SQL Script for Pizza Runner](link_to_script)
+- **Skills Tested:** Searching Text, Case Statements, NULLs, Datetime and Scalar functions
+
+### Case Study 2b - Pizza Runner
+- **Challenge:** SQL ❄️
+- **SQL Script:** [SQL Script for Pizza Runner](link_to_script)
+- **Skills Tested:** Datetime formatting, NULLs, Type conversions, Text manipulation
+
+### Case Study 2c - Pizza Runner
+- **Challenge:** SQL ❄️
+- **SQL Script:** [SQL Script for Pizza Runner](link_to_script)
+- **Skills Tested:** Comma Separated Strings, Aggregation, Unions, NULLs, CTEs, Type Conversions
+
+### Case Study 3 a&b - Foodie Fi
+- **Challenge:** SQL ❄️
+- **SQL Script:** [SQL Script for Foodie Fi](link_to_script)
+- **Skills Tested:** CTEs, Row Number, Date Functions
+
+### Case Study 4a - Data Bank
+- **Challenge:** SQL ❄️
+- **SQL Script:** [SQL Script for Data Bank](link_to_script)
+- **Skills Tested:** Calculating stats, Median and Percentile
+
+### Case Study 4b - Data Bank
+- **Challenge:** SQL ❄️
+- **SQL Script:** [SQL Script for Data Bank](link_to_script)
+- **Skills Tested:** End of month calculations, Running sums and conditional aggregations
